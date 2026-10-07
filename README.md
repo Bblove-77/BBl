@@ -10,7 +10,7 @@
 
 ## 本地工作目录
 
-`D:\codex\repos\BBl`
+`E:\GitHub\BBl`
 
 ## Git 常用命令
 
